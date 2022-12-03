@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/lastnato-talaga/static/css/main.073c9b0a.css",
+    "main.js": "/lastnato-talaga/static/js/main.24a35cbf.js",
+    "static/media/shoes.png": "/lastnato-talaga/static/media/shoes.60e7eb2581b923ddc390.png",
+    "static/media/mall.png": "/lastnato-talaga/static/media/mall.4ca7ac7231594b3d1f06.png",
+    "static/media/mens.png": "/lastnato-talaga/static/media/mens.7f121bd9b33d07343a39.png",
+    "static/media/women.png": "/lastnato-talaga/static/media/women.9a1a684cebe8599d2d6c.png",
+    "index.html": "/lastnato-talaga/index.html",
+    "main.073c9b0a.css.map": "/lastnato-talaga/static/css/main.073c9b0a.css.map",
+    "main.24a35cbf.js.map": "/lastnato-talaga/static/js/main.24a35cbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.24a35cbf.js"
+  ]
+}
